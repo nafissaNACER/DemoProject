@@ -28,6 +28,7 @@ public class CreerComptePage extends BaseTools {
         System.out.println("remplire formaulaire");
         champsName.sendKeys(name);
         champsPhone.sendKeys(phone);
+        // To do remplire les uatres champs
 
     }
 
